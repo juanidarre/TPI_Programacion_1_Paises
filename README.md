@@ -38,8 +38,8 @@ Estructura del Repositorio
 ---
 
 Entregables Obligatorios
-*   Video de demostración: [INSERTAR AQUÍ EL LINK AL VIDEO DE YOUTUBE O DRIVE]
-*   Documentación PDF: [Link al PDF o indicar que se encuentra en la raíz del repositorio]
+*   Video de demostración: [(https://youtu.be/zgO6sTG2I68)]
+*   Documentación PDF: [https://docs.google.com/document/d/1056JBvaCe6ansHwVmFRnMMG-dg-CzT-rwL0Pn-9NWog/edit?usp=sharing]
 
 ---
 
